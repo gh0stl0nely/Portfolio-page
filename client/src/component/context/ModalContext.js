@@ -59,7 +59,7 @@ const ModalStatusProvider = (props) => {
         e.preventDefault();
         setSubmitForm(true);
         //
-        return axios.post("http://localhost:5000/api/submit", input).then(res => console.log(res));
+        return axios.post("/api/submit", input).then(res => console.log(res));
 
     }
 
