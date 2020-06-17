@@ -23,8 +23,8 @@ app.post("/api/submit", async (req,res) => {
         service: "gmail",
         secure: true, // true for 465, false for other ports
         auth: {
-            user: "khoinguyen19971997@gmail.com", // generated ethereal user
-            pass: "0903986011Aa", // generated ethereal password
+            user: process.env.USERNAME, // generated ethereal user
+            pass: process.env.PASSWORD, // generated ethereal password
          },
     })
 
