@@ -18,6 +18,7 @@ function About() {
                <h4>Aspiring Full Stack Web Developer</h4>
                <p>Based in Toronto, Canada</p>
                <ContactIcons />
+               <p>Email: khoinguyen19971997@gmail.com</p>
                <br/>
                <ProgrammingIcons />
                <Intro />
