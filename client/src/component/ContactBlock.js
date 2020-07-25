@@ -36,7 +36,7 @@ function ContactBlock(){
                     <i className="fa fa-check" style={{paddingRight: "5px"}}></i>
                     Start a conversation
                 </Button>
-            <Button style={styles.contactButton} onClick={() => window.open("https://drive.google.com/file/d/1-C2J0vlMgAB-oWOIVt-BwjCG_3SxIIBr/view?usp=sharing")} variant="light">
+            <Button style={styles.contactButton} onClick={() => window.open("https://drive.google.com/file/d/1MAzYQv4ZSRPkhF2VwyGraCCZXUkdcdo1/view?usp=sharing")} variant="light">
                     <i className="fa fa-file" style={{paddingRight: "5px"}}></i>
                     My Resume
             </Button>
