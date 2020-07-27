@@ -23,7 +23,7 @@
 },{
     "src": "https://images.yourstory.com/cs/wordpress/2016/03/reserved.jpg?fm=png&auto=format",
     "title": "Restaurant Reservation",
-    "description": "A simple web application for reserving tables at a restaurant",
+    "description": "A simple web application for reserving tables at a restaurant.",
     "tech": "Materialize, Node, Express, EJS, jQuery",
     "url": "https://gh0stl0nely-restaurant-reservation-web-app.glitch.me/",
     "repo": "https://github.com/gh0stl0nely/restaurant-reservation-web-app"
