@@ -48,13 +48,3 @@ function Intro(){
 
 export default About;
   
-
-//<Fade timeout="2000" mountOnEnter={true} in={animation} >
-{/* <h1>Khoi Nguyen</h1>
-</Fade>    
-<Fade timeout={2000} in={animation} >
-     <h4>Aspiring Full Stack Web Developer</h4>
-</Fade>   
-<Fade appear={animation} >
-     <p>Based in Toronto, Canada</p>
-</Fade>        */}
